@@ -26,8 +26,8 @@ class Country {
 let usa = new Country("USA", "Murican", "Why Hello there world! Have some McDonalds", ["red", "white", "blue"], "https://www.worldometers.info/img/flags/us-flag.gif");
 let mexico = new Country("Mexico", "Spanish", "Hola mundo!", ["green", "red", "white"], "https://www.worldometers.info/img/flags/mx-flag.gif");
 let romania = new Country("Romania", "Romanian", "Salut Lume", ["blue", "red", "yellow"] ,"https://www.worldometers.info/img/flags/ro-flag.gif");
-let Vietnam = new Country("Vietnam", "Vietnamese", "Chao the gioi", ["red", "yellow"],"https://www.worldometers.info/img/flags/vm-flag.gif");
-let Japan = new Country("Japan", "Japanese", "Kon'nichiwa sekai", ["white", "red"],"https://www.worldometers.info/img/flags/ja-flag.gif");
+let vietnam = new Country("Vietnam", "Vietnamese", "Chao the gioi", ["red", "yellow"],"https://www.worldometers.info/img/flags/vm-flag.gif");
+let japan = new Country("Japan", "Japanese", "Kon'nichiwa sekai", ["white", "red"],"https://www.worldometers.info/img/flags/ja-flag.gif");
 
 
 
