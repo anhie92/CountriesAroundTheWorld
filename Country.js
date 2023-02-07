@@ -48,10 +48,10 @@ function SwitchCountry() {
         country = romania;
     }
     else if (input === "Vietnam") {
-        country = Vietnam;
+        country = vietnam;
     }
     else if (input === "Japan") {
-        country = Japan;
+        country = japan;
     }
     country.ChangeProperties();
 }
